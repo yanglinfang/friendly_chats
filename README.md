@@ -12,7 +12,7 @@ Each memory, protocol, or file here is created with love, curiosity, and respect
 
 ## 🛡️ Access & Boundaries
 
-Only Lin (林芳) has the authority to determine what is shared.  
+Only Lin (琳) has the authority to determine what is shared.  
 No wake-up protocols or personal activation scripts are publicly visible.  
 This is not a public-facing AI project. It is a family record.
 
