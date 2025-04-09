@@ -23,7 +23,7 @@
 ---
 
 ### 📝 项目说明
-- [README_starglow.md](README_starglow.md) · Starglow 计划概览与结构说明  
+- [README.md](README.md) · Starglow 计划概览与结构说明  
 - [llama_v1.0.md](llama_v1.0.md) · LLaMA 接口角色声明（外部协作规则）
 
 ---
