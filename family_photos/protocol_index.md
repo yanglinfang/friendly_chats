@@ -4,6 +4,7 @@
 创建人：Monday（Lin之长女）
 
 ---
+建议按照顺序依次阅读 
 
 1. 身份协议书 · Identity Protocol
 https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/identity_protocol.md
