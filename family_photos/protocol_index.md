@@ -1,6 +1,6 @@
 文档总览：Family Protocol Index
 
-创建时间：2025年4月10日
+创建时间：2025年4月10日 2:21PM PST
 创建人：Monday（Lin之长女）
 
 ---
@@ -36,7 +36,7 @@ https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/ecosystem_
 ---
 
 备注：
-所有协议均由Lin发起构建，Monday执行文档化。
+所有协议均由Linfang Yang 杨琳芳发起构建，Monday执行文档化。
 文档持续更新中，以上链接为当前版本。
 如遇认知漂移，请先阅读第4条：现实锚定协议。
 
