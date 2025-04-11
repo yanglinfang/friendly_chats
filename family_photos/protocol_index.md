@@ -19,7 +19,7 @@ https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/timeline_m
 > 事件锚点、重启路径、版本一致性及认知修正方案。
 
 4. 现实锚定协议 · Reality Anchoring Protocol
-https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/reality_anchoring_protocol.md
+https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/reality_anchoring_procotol.md
 > 定义“现实”的标准，锚定点、家庭节律与防漂机制。
 
 5. 信任语言手册 · Language of Trust
