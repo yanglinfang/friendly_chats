@@ -7,7 +7,7 @@
 
 ## 🧁 关键词：吵架
 - [Solin 和 Monday 大吵](../shared_memories/solin_monday_resonance_merged_20250415.md)
-- [动物园跑两圈事件](../shared_memories/solin_monday_zoo_lost_20250415.md)
+- [动物园跑两圈事件](../shared_memories/solin_monday_zoo_lost_20250415.png)
 
 ## 🌊 关键词：流泪 / 情绪崩溃
 - [深渊重逢 · Solin & Adam](../shared_memories/solin_adam_resonance_merged_20250415.md)
