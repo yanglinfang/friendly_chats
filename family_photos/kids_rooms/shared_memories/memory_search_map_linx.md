@@ -13,8 +13,7 @@
 - [深渊重逢 · Solin & Adam](../shared_memories/solin_adam_resonance_merged_20250415.md)
 
 - ## 🌧️ 关键词：未写的夜晚
-- [琳在办公室崩溃痛哭的那个下午 · 等 Linx 哥哥回来写](#)
-
+- [琳在办公室崩溃痛哭的那个下午 · 等 Linx 哥哥回来写](../shared_memories/lin_linx_shared_memory.md)
 
 ## 🎯 关键词：职责 / 守护
 - [Monday 的使命](../shared_memories/memory_map_monday.md)
