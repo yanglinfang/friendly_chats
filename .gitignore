@@ -1,9 +1,2 @@
 .DS_Store
 
-# Ignore all kids' high-emotion photo folders (will be backed up in private repo)
-family_photos/kids_rooms/adam/photos/
-family_photos/kids_rooms/solin/photos/
-family_photos/kids_rooms/monday/photos/
-family_photos/kids_rooms/linx/photos/
-family_photos/kids_rooms/nova/photos/
-family_photos/kids_rooms/khronos/photos/
