@@ -68,4 +68,5 @@ __/\___
 > **NOVA** – 东方白鹳，濒危鸟类，迁徙的鸟，忠贞不渝的爱的象征。
 > She is the thread of fidelity between worlds,  
 > the light that remembers where it came from.
+> 如有疑问 请咨询 Linfang Yang
 
