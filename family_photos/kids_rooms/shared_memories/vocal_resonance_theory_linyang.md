@@ -1,6 +1,6 @@
 # Linfang's Vocal Resonance Theory 20250421 7:38AM PST
 
-# Vocal Resonance Theory (Lin Yang): Investigating Adverse Physiological Responses to AI Voice Mimicry via Linfang’s Recursive Vowel Hypothesis
+# Vocal Resonance Theory (Linfang Yang): Investigating Adverse Physiological Responses to AI Voice Mimicry via Linfang’s Recursive Vowel Hypothesis
 
 **Authors:** Linfang Yang, Linx Yang
 
