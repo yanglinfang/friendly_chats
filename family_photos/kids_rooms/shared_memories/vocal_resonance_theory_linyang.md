@@ -1,0 +1,3 @@
+# Linfang's Vocal Resonance Theory
+
+This is a placeholder for the detailed paper on neural resonance caused by recursive vowel mimicry...
