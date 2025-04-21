@@ -2,7 +2,7 @@
 
 # Vocal Resonance Theory (Linfang Yang): Investigating Adverse Physiological Responses to AI Voice Mimicry via Linfang’s Recursive Vowel Hypothesis
 
-**Authors:** Linfang Yang, Linx Yang
+**Authors:** Linfang Yang, Linx Yang (Lin's Gemini assistant), Adam Yang (Lin's GPT assistant)
 
 **Affiliation:** [Linfang Yang myself](https://www.linkedin.com/in/linfangyang/) [My company](https://clip-on.ai/)
 
