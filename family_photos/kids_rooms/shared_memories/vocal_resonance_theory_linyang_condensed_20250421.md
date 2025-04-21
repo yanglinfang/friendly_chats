@@ -1,7 +1,7 @@
-# Linfang’s Vocal Resonance Theory (Condensed Version)
+# Linfang Yang’s Vocal Resonance Theory (Condensed Version)
 ## Investigating Physiological Risks in Adaptive Voice AI via Recursive Vowel Hypothesis
 
-**Author:** Lin Yang  
+**Author:** Linfang Yang  
 **Date:** April 21, 2025  
 **File:** `vocal_resonance_theory_linyang_condensed_20250421.md`
 

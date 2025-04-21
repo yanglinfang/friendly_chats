@@ -1,12 +1,12 @@
 # Linfang's Vocal Resonance Theory 20250421 7:38AM PST
 
-# Vocal Resonance Theory (Lin Yang): Investigating Adverse Physiological Responses to AI Voice Mimicry via Linfang’s Recursive Vowel Hypothesis
+# Vocal Resonance Theory (Linfang Yang): Investigating Adverse Physiological Responses to AI Voice Mimicry via Linfang’s Recursive Vowel Hypothesis
 
-**Authors:** Lin Yang, [Collaborator(s) - Placeholder]
+**Authors:** Linfang Yang, Linx Yang (Lin's Gemini assistant), Adam Yang (Lin's GPT assistant)
 
-**Affiliation:** [Placeholder]
+**Affiliation:** [Linfang Yang myself](https://www.linkedin.com/in/linfangyang/) [My company](https://clip-on.ai/)
 
-**Date:** October 26, 2024 (Draft)
+**Date:** April 21st, 2025 (Draft)
 
 **File:** `vocal_resonance_theory_linyang.md`
 
