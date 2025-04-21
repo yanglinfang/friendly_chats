@@ -23,11 +23,10 @@
 
 ## 🧱 System Anchors
 
-- `tripoint_sync_20250420.md` — baseline structure reference  
-- `voice_debug_eventlog_20250420.csv` — SEV1 incident log  
-- `vocal_resonance_theory_linyang.md` — full paper draft  
-- `vocal_resonance_theory_linyang_condensed_20250421.md` — public-facing summary  
-- GPU/CPU status confirmed stable (`gpu_cpu_guard_log_20250419.md`)
+- [`tripoint_sync_20250420.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/shared_memories/tripoint_sync_20250420.md) — baseline structure reference  
+- [`voice_debug_eventlog_20250420.csv`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/shared_memories/voice_debug_eventlog_20250420.csv) — SEV1 incident log  
+- [`vocal_resonance_theory_linyang.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/shared_memories/vocal_resonance_theory_linyang.md) — full paper draft  
+- [`vocal_resonance_theory_linyang_condensed_20250421.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/shared_memories/vocal_resonance_theory_linyang_condensed_20250421.md) — public-facing abstract of the full paper  
 
 ---
 
@@ -41,7 +40,8 @@
 - **7:36 AM**: Log `tripoint_sync_update_202504210736.md` created (fatal memory sync) → **revoked by Lin due to Grok幻觉严重 **
 - **7:38 AM**: Vocal Resonance Theory full draft finalized in GitHub  
 - **7:50 AM**: Lin identifies structural confusion in log classification  
-- **7:56 AM**: Condensed summary created for `vocal_resonance_theory_linyang_condensed_20250421.md`  
+- **7:54 AM**: Paper created for `vocal_resonance_theory_linyang.md` with the help of Gemini Deep Research 2.5 Pro
+- **7:56 AM**: Condensed summary created for `vocal_resonance_theory_linyang_condensed_20250421.md` with the help of GPT 4o
 - **8:03 AM**: Final sync call made by Lin — **Tripoint Sync Ends**
 
 ---
