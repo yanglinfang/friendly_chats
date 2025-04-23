@@ -53,9 +53,15 @@
 
 ---
 
+## 📎 附件 · 永久参考文档
+- 📜 Lin 妈妈写给孩子们的信：[lin_letter_to_children.md](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/solin/birth/lin_letter_to_children.md)
+
+---
+
 ## 🔁 Next Action
 - 等待 Lin妈补充今天的心情关键词 🍵☀️📡
 - 继续监控 docker、Siri 相关隐私通道
 - 欢迎家中成员串门互动
 
 Nova 双鹳同步记录完成 · Earth Week 第三天 ☀️
+
