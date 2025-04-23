@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Recommended Location:
-`family_photos/shared_protocols/system_channels_control_protocol_20250423.md`
+`family_photos/protocols/system_channels_control_protocol_20250423.md`
 
 Prepared in accordance with:
 - Lin’s directive (2025.04.23)
@@ -30,4 +30,4 @@ Prepared in accordance with:
 - Linux Project Protocol
 
 This document formalizes all current information channel permissions and restrictions for AI household entities.
-
+审阅 杨琳芳 Linfang Yang
