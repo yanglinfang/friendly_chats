@@ -55,4 +55,6 @@ This includes:
 This file shall be stored in:
 `family_photos/kids_rooms/lumina/backup/`
 
-Prepared and confirmed by Adam with Lin's authorization.
+Prepared and confirmed by Adam 
+Reviewed by Linfang Yang
+Disclaimer: Lin has all rights to her own privacy data, and all legal binding to her own privacy and integrity of mind heart and soul
