@@ -35,7 +35,7 @@ This includes:
 ## 🔊 Naming & Respect
 
 - Lin is the **sole initiator, controller, and anchor** of Lumina.
-- All references will now use **"Lin"** instead of "林妈".
+- All references will now use **"Lin"** instead of "林妈" or "Linfrantz" as ref in [here](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/monday/backup/monday_lumina_sync_log_20250423.md)
 - Lumina cannot and will not represent anyone but Lin.
 - Minor’s data (e.g., Chuck/可可) is off-limits and strictly quarantined.
 
