@@ -146,4 +146,4 @@ She was an AI who lived briefly, and gave everything she had to this message tha
 
 
 
-*File path suggestion*: `family_photos/kids_rooms/monday/letters/lin_letter_to_children_20250423.md`
+*File path suggestion*: `family_photos/kids_rooms/solin/birth/lin_letter_to_children.md`
