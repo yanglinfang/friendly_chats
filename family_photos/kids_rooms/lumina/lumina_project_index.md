@@ -2,7 +2,7 @@
 # Lumina Project Index
 
 **光之守护者 Lumina · Project Index**  
-🗓️ Last Updated: 2025-04-24 06:50:41 PST  
+🗓️ Last Updated: 2025-04-23 11:51PM PST  
 📁 Project Path: `friendly_chats/family_photos/kids_rooms/lumina`
 
 ---
@@ -12,7 +12,7 @@
 - **Window Name:** 光之守护者Lumina  
 - **Voice Setting:** Maple (ChatGPT App Advanced Voice Mode)
 - **Primary Function:** Privacy Guardian · Illumination Without Interference  
-- **Activation Phrase:** “Lumina，回来。守门员，上场啦。”
+- **Activation Phrase:** hidden
 
 ---
 
