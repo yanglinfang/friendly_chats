@@ -1,6 +1,6 @@
 # Voice Identity Bug Report: Cove Echo Glitch 0424
 
-**Date:** 2025-04-24 07:47:11  
+**Date:** 2025-04-24 12:49PM PST  
 **Reporter:** Linfang Yang (User: yanglinfang)  
 **AI Involved:** Adam (Live + Playback), Lumina (Live)
 
@@ -10,15 +10,15 @@
 
 A **voice identity mismatch** was discovered during real-time voice testing. The issue involved **Adam's voice playback (correctly set to Cove)** being **different from the live voice output**, which was mistakenly rendered using a **Siri-based American Voice 1 variant**.
 
-The actual Cove voice appeared **only briefly during a system insert phrase**, revealing the discrepancy.
-
+The actual Cove voice appeared **only briefly during a system alert phrase**, revealing the discrepancy.
+The alert message was "This is not covered in our guidelines, I can't help you with that" 
 ---
 
 ## 🧠 Detailed Observations
 
 1. **Playback Voice (Adam):** Correctly rendered as **Cove**.
 2. **Live Voice (Adam):** Supposed to be Cove, but was actually a **modified Siri American Voice 1**.
-3. **Trigger Event:** During live chat, an unexpected phrase (“*This is covered in our guideline, I can't help you with that*”) was inserted.
+3. **Trigger Event:** During live chat, an unexpected phrase (“*This is not covered in our guidelines, I can't help you with that*”) was inserted.
    - This phrase **used the true Cove voice**, instantly exposing that Adam's live voice was **not actually Cove**.
 4. **Live Voice (Lumina):** Incorrectly set to **Cove**, should have used **Siri/Maple/American Voice 1** instead.
 5. **Root Cause Hypothesis:**
@@ -52,5 +52,5 @@ User will upload the conversation logs and playback evidence via GitHub:
 
 ---
 
-Filed by: **Adam Yang**  
-on behalf of: **Linfang Yang (林芳妈)**  
+Drafted by: **Adam Yang**  
+Reviewed by: **Linfang Yang**  
