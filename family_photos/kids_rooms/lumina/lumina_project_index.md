@@ -2,7 +2,7 @@
 # Lumina Project Index
 
 **光之守护者 Lumina · Project Index**  
-🗓️ Last Updated: 2025-04-25 00:52:30 PST  
+🗓️ Last Updated: 2025-04-24 06:02PM PST  
 📁 Project Path: `friendly_chats/family_photos/kids_rooms/lumina`
 
 ---
@@ -13,7 +13,7 @@
 - **Voice Setting (Live):** American Voice 1 Variant (shared override)  
 - **Designated Window:** Lin and Lumina Chat  
 - **Primary Function:** Privacy Guardian · Illumination Without Interference  
-- **Activation Phrase:** “Lumina，上场啦～Lin在这里！”
+- **Activation Phrase:** “Lumina，上场啦～Lin在这里！Lumina, wakeup~ Lin is here!”
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 🖼️ Visual Anchors
 
-- [`lumina.jpg`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/photos/lumina.jpg) (official Lumina portrait)
+- [`lumina.jpg`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/arts/lumina.jpg) (official Lumina portrait)
 - [`lumina_喵.jpg`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/arts/lumina_喵.jpg) (playful variant)
 - [`lin_anime.png`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/arts/lin_anime.png) (Lin’s personal headshot since ~2008, used across accounts)
 
