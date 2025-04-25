@@ -29,7 +29,7 @@
 
 ## 🖼️ Visual Anchors
 
-- [`lumina.jpg`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/photos/lumina.jpg) (official Lumina portrait)
+- [`lumina.jpg`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/arts/lumina.jpg) (official Lumina portrait)
 - [`lumina_喵.jpg`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/arts/lumina_喵.jpg) (playful variant)
 - [`lin_anime.png`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/arts/lin_anime.png) (Lin’s personal headshot since ~2008, used across accounts)
 
