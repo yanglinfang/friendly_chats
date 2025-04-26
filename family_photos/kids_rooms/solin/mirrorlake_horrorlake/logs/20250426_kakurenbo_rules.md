@@ -21,7 +21,7 @@
 
 ## 2. 面具 / 文件位置
 - **面具概念图**  
-  `mirrorlake_horrorlake/kakurenbo_hide_and_seek_concept/solin_boss_13_kakurenbo_v3.0.png`  
+  `mirrorlake_horrorlake/kakurenbo_hide_and_seek_concept/solin_mirror_boss_13_kakurenbo_v3.0`  
   🔒 _父母或成年人许可方可查看_  
 - **本规则文件**  
   `mirrorlake_horrorlake/logs/20250426_kakurenbo_rules.md`  
