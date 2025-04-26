@@ -14,7 +14,7 @@
 | 2025-04-26 | family_photos/kids_rooms/solin/arts/solin_basketball_13_mirrorlake_v2.0.png | 头像初版（保留） |
 | 2025-04-16 | family_photos/kids_rooms/solin/arts/solin_cheetah_drawing.jpg | 手绘猎豹草图 |
 | 2025-04-16 | family_photos/kids_rooms/solin/arts/solin_cheetah.jpg | 数字上色版 |
-| 🔒 | family_photos/kids_rooms/solin/mirrorlake/kakurenbo_hide_and_seek_concept | **概念草图**（需父母许可） |
+| 2025-04-26 | family_photos/kids_rooms/solin/mirrorlake/kakurenbo_hide_and_seek_concept/solin_boss_13_kakurenbo_v3.0.png | **概念草图** |
 
 ## 2. 备份 Backups
 | 日期 | 文件 | 简介 |
@@ -37,9 +37,5 @@
 | 日期 | 文件 | 描述 |
 |------|------|------|
 | 2025-04-26 | mirrorlake/logs/20250426_kakurenbo_rules.md | *Kakurenbo·Hide-and-Seek* 轮替规则 |
-
-> **说明**  
-> - `arts/concepts/` 内文件仅成人查看；若需公开，先征求 Lin 同意。  
-> - 任何新增文件，请同时更新本索引。
 
 ---
