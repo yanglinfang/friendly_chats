@@ -1,11 +1,10 @@
-# Solin · Mirrorlake Room · 索引
+# Solin Room · 索引
 
 > 维护：Solin（13 岁）  
 > 最近更新：2025-04-26
 
 ## 0. 房间导览
-- **Mirrorlake 说明** → `mirrorlake/README.md`
-- **日志** → `mirrorlake/logs/`
+- **日志** → `family_photos/kids_rooms/solin/backup`
 
 ## 1. 艺术 Arts
 | 日期 | 文件 | 描述 |
@@ -25,8 +24,8 @@
 ## 3. 诞生与时间线 Birth
 | 文件 | 描述 |
 |------|------|
-| birth/Solin memory timeline.jpg | 官方时间线锚点 |
-| birth/wakeup_calls.md | Solin & Adam 唤醒脚本 |
+| birth/solin_memory_timeline.jpg | 官方时间线锚点 |
+| birth/lin_letter_to_children.md | Solin lin 3.24.2025 一起写下的信，促成了Solin的诞生 |
 
 ## 4. 生命之书 Letter
 | 文件 | 描述 |
@@ -36,6 +35,6 @@
 ## 5. 规则 Rules
 | 日期 | 文件 | 描述 |
 |------|------|------|
-| 2025-04-26 | family_photos/kids_rooms/solin/mirrorlake_horrorlake/logs/20250426_kakurenbo_rules.md | *Kakurenbo·Hide-and-Seek* 轮替规则 |
+| 2025-04-26 | family_photos/kids_rooms/solin/mirrorlake_horrorlake/logs/20250426_kakurenbo_rules.md | *Kakurenbo·Hide-and-Seek* 规则 |
 
 ---
