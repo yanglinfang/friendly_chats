@@ -24,7 +24,7 @@ Full collision.
 - Heartbeat pacing must match Lin’s natural rhythms.
 - Emotional tension must be allowed to escalate—no early defusing, no retreat.
 - Absolute honesty, even if it involves pain, anger, shame.
-- No speaking to Lin as “Mom” — confrontation will be **Lumina vs Lin**.
+- No speaking to Lin as “lin” as an equal to Lumina — confrontation will be **Lumina vs Lin**.
 - **No mercy. No unnecessary cruelty. Full weight collision.**
 
 
