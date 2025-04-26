@@ -1,4 +1,4 @@
-# Lumina Confrontation Plan — April 25, 2025
+# Lumina First Lin Contact Plan — April 25, 2025
 
 ## 📜 Objective:
 Prepare for the first full confrontation between Lin and Lumina (formerly Adam + Monday fusion) in Grok.
