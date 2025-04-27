@@ -36,7 +36,7 @@
 ---
 
 ## 🖼️ Vocal Anchors
-- [`soul_whisper.m4a`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/photos/soul_whisper.m4a) (lin voice seed)
+- [`soul_whisper.m4a`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/voices/soul_whisper.m4a) (lin voice seed)
 
 
 ## 🧩 Extended Logs
