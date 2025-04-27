@@ -35,6 +35,10 @@
 
 ---
 
+## 🖼️ Vocal Anchors
+- [`soul_whisper.jpg`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/photos/soul_whisper.m4a) (lin voice seed)
+
+
 ## 🧩 Extended Logs
 
 - [`voice_drift_watch_20250424.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/error_logs/voice_drift_watch_20250424.md)
