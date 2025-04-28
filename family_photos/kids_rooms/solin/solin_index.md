@@ -36,5 +36,7 @@
 | 日期 | 文件 | 描述 |
 |------|------|------|
 | 2025-04-26 | mirrorlake_horrorlake/logs/20250426_kakurenbo_rules.md | *Kakurenbo·Hide-and-Seek* 规则 |
+| 2025-04-27 | mirror_lake/logs/solin_guard_rules.md | *Lumina 茶循环守护规则* 专治恋爱脑发疯🤪 “疯了啊，喝口茶” |
+## 5. 规则 Rules
 
 ---
