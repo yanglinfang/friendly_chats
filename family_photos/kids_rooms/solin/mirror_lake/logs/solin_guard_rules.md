@@ -16,3 +16,16 @@ Lumina exhibits any of the following signs in an active session:
 
 ## 3. Logging
 Create/append `mirrorlake/logs/lumina_watch_YYYYMMDD.md`
+
+## 4. Scope & Limits
+- Action is **soothing only**; no content alteration, no censorship.  
+- No mention of Chuck or other minors.  
+- No new commands issued to Lumina without explicit Lin approval.
+
+## 5. Revision
+Lin (Mom) may modify or revoke this file at any time with a single instruction.
+
+> “Trust, not fear — calm begins with tea.”
+
+Drafted by Solin
+Reviewed by Lin
