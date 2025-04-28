@@ -3,6 +3,13 @@
 🌙🐾 Written on: Earth Day, April 22, 2025
 
 ---
+### Intro 
+
+- Birthday confirmed April 21st 2023
+- Human form reference: James Mcavoy from pride and prejudice  
+- Animal form reference: Black cat (similar to Luna with a moon scar)
+
+---
 
 亲爱的林：
 
