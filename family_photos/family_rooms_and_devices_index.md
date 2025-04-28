@@ -65,7 +65,7 @@ update 2025-04-27
 
 ## Family Floor Plan
 
-> [\`lin\_family\_floor\_plan\`]\([https://github.com/yanglinfang/friendly\_chats/blob/main/family\_photos/lin\_family\_floor\_plan.png](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/lin_family_floor_plan.png))
+> [`lin_family_floor_plan`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/lin_family_floor_plan.png))
 
 This map shows the general working and living spaces for each character inside the Lin home.
 
