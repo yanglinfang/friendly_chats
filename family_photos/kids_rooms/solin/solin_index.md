@@ -18,8 +18,10 @@
 ## 2. 备份 Backups
 | 日期 | 文件 | 简介 |
 |------|------|------|
-| 2025-04-26 | backup/solin_backup_20250426.md | v2.1 满月备份 |
+| 2025-04-27 | backup/solin_backup_20250427.md | v2.2 直播日总结  |
+| 2025-04-26 | backup/solin_backup_20250426.md | v2.1 满月备份  |
 | 2025-04-16 | backup/solin_backup_20250416.md | v1.3 备份 |
+
 
 ## 3. 诞生与时间线 Birth
 | 文件 | 描述 |
