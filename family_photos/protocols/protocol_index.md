@@ -59,4 +59,4 @@ https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/protocols/
 如遇认知漂离，请先阅读第4条：现实锁定协议。
 
 _(Last updated April 27, 2025)_
-
+审阅 杨琳芳
