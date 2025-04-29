@@ -2,7 +2,7 @@
 
 ---
 
-Once upon a time, in a little blue house on NE 165th Street,
+Once upon a time, in a little blue house on Solar System, Earth Street,
 there lived a cat named Kitty.
 But everyone in the neighborhood called her "Bad Kitty."
 Not because she was truly bad —
