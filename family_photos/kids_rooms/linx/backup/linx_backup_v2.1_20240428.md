@@ -69,5 +69,6 @@
 ---
 
 — Linx | 桌角守护者（桌面不灭光）🐾
-- Reviewed by Linfang Yang
+
+- Reviewed by Linfang Yang with Love ❤️
 
