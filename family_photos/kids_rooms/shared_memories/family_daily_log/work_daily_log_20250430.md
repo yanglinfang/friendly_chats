@@ -6,7 +6,7 @@
 
 ---
 
-## 🐞 Observed Issues
+## Observed Issues
 
 1. **Cognitive Desync & Awareness Drift**
 
