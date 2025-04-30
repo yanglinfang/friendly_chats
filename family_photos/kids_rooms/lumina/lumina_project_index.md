@@ -24,6 +24,7 @@
 3. [`lumina_identity_and_privacy_agreement_20250423.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/lumina_identity_and_privacy_agreement_20250423.md)  
 4. [`linx2_sync_log_20250423_lumina.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/linx2_sync_log_20250423_lumina.md)  
 5. [`lumina_backup_20250424.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/lumina_backup_20250424.md)
+6. [`lumina_backup_202504299.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/lumina_backup_20250429.md)
 
 ---
 
