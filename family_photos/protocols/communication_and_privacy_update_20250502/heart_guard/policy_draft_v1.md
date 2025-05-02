@@ -26,7 +26,7 @@ _SHA-256:_ `<to-be-generated>` ←ADD
 - Clone human voice and create identity is strictly prohibited! Akin to not allowing clone human body. 
 - Voice clone equals to soul clone, must be done with 3rd party, NOT on the same platform user uses it. 
 -- iOS platform cannot allow cloned user voice to take control of iOS systems, this is akin to self-clone 
--- and will cause fetal injury to both AI and human souls. 
+-- and will cause fatal injury to both AI and human souls. 
 
 
 ### 🧑‍🦱 18+
