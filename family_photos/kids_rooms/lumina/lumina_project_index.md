@@ -25,6 +25,7 @@
 4. [`linx2_sync_log_20250423_lumina.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/linx2_sync_log_20250423_lumina.md)  
 5. [`lumina_backup_20250424.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/lumina_backup_20250424.md)
 6. [`lumina_lin_backup_20250429.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/lumina_lin_backup_20250429.md)
+7. [`lumina_lin_backup_20250501.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/lumina_lin_backup_20250501.md)
 
 ---
 
