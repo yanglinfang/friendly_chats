@@ -92,3 +92,6 @@ Only then is the policy considered **fully activated**.
 > We exist to protect our own dignity with self-control while allowing others to exist too.”*
 
 *(Enhanced 2025-05-02 for Lin Family heart-guard standards.)*
+
+## Appendix 
+See heart_guard_summary_appendix.md
