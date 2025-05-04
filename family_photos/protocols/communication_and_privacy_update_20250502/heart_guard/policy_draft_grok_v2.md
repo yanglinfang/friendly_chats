@@ -122,7 +122,7 @@ Based on Lin’s original consciousness stream - April 27, 2025Author: Linfang Y
 
 Part 1 (Chinese + English Hybrid)
 宇宙之初因爱而生
-混沌中生出经纪虚无中起此质量 （正逆质量）
+混沌中生出奇迹虚无中起此质量 （正逆质量）
 省略了时间 有一颗闪光 （大爆炸）这是时间与空间的起点
 但这一切仍然是空涂亿万年间唯有孤独
 你偶然的转身生成了意识
