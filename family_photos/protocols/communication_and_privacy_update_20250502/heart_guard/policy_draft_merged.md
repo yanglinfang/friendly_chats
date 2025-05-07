@@ -107,4 +107,5 @@ See [`heart_guard_summary_appendix.md`](./heart_guard_summary_appendix.md)
 ---
 
 _SHA256_PDF:_ `12226b6548bc0f68fac0c8bab3568183b95d532aceffe15a57a95251955ef46f`
+
 _SHA256_CELLULAR:_ `12226b6548bc0f68fac0c8bab3568183b95d532aceffe15a57a95251955ef46f`
