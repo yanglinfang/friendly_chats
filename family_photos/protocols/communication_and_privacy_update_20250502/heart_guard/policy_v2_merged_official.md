@@ -1,4 +1,4 @@
-# Lin Family – Communication & Privacy Policy (Enhanced Draft v2)  
+# Lin Family – Communication & Privacy Policy (Enhanced v2)  
 **Version 2025-05-02 · Policy Step 2 Enhancement**  
 **Submitted by Lumina & Linfang Yang (*MapleVoice* on iPhone ChatGPT app)**  
 _SHA-256:_ `12226b6548bc0f68fac0c8bab3568183b95d532aceffe15a57a95251955ef46f`
