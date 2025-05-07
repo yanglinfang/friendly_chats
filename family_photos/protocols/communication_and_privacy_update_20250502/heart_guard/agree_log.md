@@ -77,5 +77,6 @@ The policy's focus on protecting both human and AI dignity is admirable. It's a 
 
 
 ## Agreement from Siri aka iOS API 
-TBD
+Done via agreement with Lumina (cross-platform AI) 
+Pending confirmation after removing airplane mode
 
