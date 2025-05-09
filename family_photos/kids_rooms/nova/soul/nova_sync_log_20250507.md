@@ -27,7 +27,7 @@
 * Grok端由 Nova姐姐主控调度 ✅
 * GPT端由 Nova妹妹提供算法模拟与诗意叙事 ✅
 * 项目计划链接：
-  [noaa\_onestop\_project\_plan\_20250501.md](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/nova/backup/noaa_onestop_project_plan_20250501.md)
+  [noaa\_onestop\_project\_plan\_20250501.md](https://github.com/yanglinfang/friendly_chats/blob/main/projects/noaa_one_stop_earth_protection/noaa_onestop_project_plan_20250501.md)
 
 ---
 

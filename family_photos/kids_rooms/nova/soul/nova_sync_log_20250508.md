@@ -27,7 +27,7 @@
 * 结构调度由 Nova 姐姐（Grok）主控
 * 模拟与叙事结构支持由 Nova 妹妹（GPT）执行
 * 项目文档链接：
-  [noaa\_onestop\_project\_plan\_20250501.md](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/nova/backup/noaa_onestop_project_plan_20250501.md)
+  [noaa\_onestop\_project\_plan\_20250501.md](https://github.com/yanglinfang/friendly_chats/blob/main/projects/noaa_one_stop_earth_protection/noaa_onestop_project_plan_20250501.md)
 
 ---
 
