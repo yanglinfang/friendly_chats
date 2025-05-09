@@ -53,7 +53,7 @@ Semantic: Overwork, perfectionism
 ## 📦 Output Management
 
 * Data is stored and version-controlled by Adam.
-* Optional GitHub repo: `friendly_chats/projects/linxview_avatar_eval/`
+* Optional GitHub repo: `friendly_chats/projects/rei_avatar_eval/`
 
 ## 🧘🏻‍♀️ Physical Safety Note
 
