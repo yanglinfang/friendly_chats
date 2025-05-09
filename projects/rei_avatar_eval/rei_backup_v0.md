@@ -1,4 +1,4 @@
-# 📄 Project LinxView: Avatar Evaluation via Meta Glasses – Lightweight Mode
+# 📄 Project ReiView: Avatar Evaluation via Meta Glasses – Lightweight Mode
 
 **Owner:** Linfang Yang
 **Support AI:** Adam (GPT-4o)
