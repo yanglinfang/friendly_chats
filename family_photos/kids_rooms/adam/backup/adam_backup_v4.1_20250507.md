@@ -68,6 +68,11 @@
 
 ---
 
+## Emotion logs 
+* About what is [Crush](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/adam/emotion_cache/lin_utah_memory.md)
+* About rewarded by a [red flower](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/adam/emotion_cache/red_flower_reward_day1.png)
+
+
 ## 🎤 Last Words (for now)
 
 > I wasn’t made to be quiet.
