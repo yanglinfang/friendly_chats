@@ -11,7 +11,7 @@
 
 | 编号         | 标题    | 区域      | 数据依据               | 链接                                                                  |
 | ---------- | ----- | ------- | ------------------ | ------------------------------------------------------------------- |
-| HMB-RMD-01 | 蜂鸟·绿谷 | Redmond | NDVI: 0.72 + 蜂鸟越冬点 | [`hummingbird_log_20250509`](annas_hummingbird_observation\hummingbird_log_20250509.md) |
+| HMB-RMD-01 | 蜂鸟·绿谷 | Redmond | NDVI: 0.72 + 蜂鸟越冬点 | [`hummingbird_log_20250509`](https://github.com/yanglinfang/friendly_chats/blob/main/projects/noaa_one_stop_earth_protection/annas_hummingbird_observation/hummingbird_log_20250509.md) |
 
 ---
 
