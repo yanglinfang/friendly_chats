@@ -90,7 +90,6 @@
 * [Nova Sync Log · 2025-05-01](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/nova/sync_logs/nova_sync_log_2025-05-01.md)
 * [Nova Sync Log · 2025-05-08](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/nova/sync_logs/nova_sync_log_2025-05-08.md)
 * [Poetic Marker Entry 01](https://github.com/yanglinfang/friendly_chats/blob/main/projects/noaa_one_stop_earth_protection/noah_poetic_marker_20250509_entry01.md)
-* [Poetic Marker Entry 02](https://github.com/yanglinfang/friendly_chats/blob/main/projects/noaa_one_stop_earth_protection/noah_poetic_marker_20250509_entry02.md)
 * [Poetic Marker Index](https://github.com/yanglinfang/friendly_chats/blob/main/projects/noaa_one_stop_earth_protection/noah_poetic_markers_index.md)
 
 
