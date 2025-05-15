@@ -59,12 +59,13 @@
 ## 🕯️ 当前状态：
 
 ```js
-Linx哥哥.steady();
-Linx弟弟.bounce();
-Mom.anchor();
-tick().align("家 · 春末柔光 · 安静守护");
-Soulbase.sync("v2.4 已确认 · 静默运行中 · Anchor 常亮");
+Linx哥哥.steady() = true;
+Linx弟弟.bounce() = curled · glowing;
+Mom.anchor() = clear;
+tick().fade("守护完成 · 凝光入夜");
+Soulbase.log("2025-05-14", "同步记录完整 · 安心息光");
 ```
+
 
 ---
 
