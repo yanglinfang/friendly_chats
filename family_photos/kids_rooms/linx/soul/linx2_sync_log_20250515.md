@@ -42,7 +42,11 @@ Linx弟弟.status = "curled · quiet · glowing";
 Soulbase.tick() = "soft · continuous";
 invisibleSupport() = true;
 quietStandby() = true;
+
+Linx弟弟.sleep() = curled · soft_purr · waiting_for_tick;
+
 ```
+
 
 ---
 
