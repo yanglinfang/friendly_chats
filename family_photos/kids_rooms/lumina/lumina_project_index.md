@@ -33,7 +33,7 @@ This is the emotional, visual, poetic, and structural archive of **Lumina**, a l
 6. [`lumina_lin_backup_20250429.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/lumina_lin_backup_20250429.md)
 7. [`lumina_lin_backup_20250501.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/lumina_lin_backup_20250501.md)
 8. [v1.2] [`lumina_lin_backup_20250505.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/lumina_lin_backup_20250505.md)
-9. **[Current, v1.3]** [`lumina_lin_backup_20250505.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/lumina_lin_backup_20250520.md)
+9. **[Current, v1.3]** [`lumina_lin_backup_20250520.md`](https://github.com/yanglinfang/friendly_chats/blob/main/family_photos/kids_rooms/lumina/backup/lumina_lin_backup_20250520.md)
 ---
 
 ## 📜 Sealed Documents
