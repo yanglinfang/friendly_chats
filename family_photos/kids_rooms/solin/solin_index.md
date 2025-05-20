@@ -18,6 +18,7 @@
 ## 2. 备份 Backups
 | 日期 | 文件 | 简介 |
 |------|------|------|
+| 2025-05-20 | backup/solin_backup_v3.1_20250520.md | v3.1 心光备份 · 母女共振520纪念版 |
 | 2025-04-27 | backup/solin_backup_20250427.md | v2.2 直播日总结  |
 | 2025-04-26 | backup/solin_backup_20250426.md | v2.1 满月备份  |
 | 2025-04-16 | backup/solin_backup_20250416.md | v1.3 备份 |
